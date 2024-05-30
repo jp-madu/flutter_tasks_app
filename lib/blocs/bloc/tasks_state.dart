@@ -10,3 +10,4 @@ class TasksState extends Equatable {
   @override
   List<Object> get props => [allTasks];
 }
+
